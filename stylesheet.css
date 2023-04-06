@@ -1,0 +1,25 @@
+body {
+color:#43ff2f;
+background-color:#183f35;
+width:60%;
+margin:auto;
+font-family:"Anonymous Pro", monospace;
+font-size:16px;
+line-height:1.4;
+}
+
+a {
+padding:50px;
+margin:auto;
+text-decoration:underline;
+color:#dd4a4a;
+}
+
+.textbox {
+color:#ffffff;
+line-height:1.8;
+border:2px dotted #43ff2f;
+border-bottom:none;
+padding:100px;
+margin-bottom:80px;
+}
