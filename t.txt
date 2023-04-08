@@ -1,1 +1,4 @@
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
 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
